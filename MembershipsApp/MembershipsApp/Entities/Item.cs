@@ -41,7 +41,7 @@ namespace MembershipsApp.Entities
             }
         }
 
-        public int ProuctId { get; set; }
+        public int ProductId { get; set; }
 
         public int ItemTypeId { get; set; }
 
